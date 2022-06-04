@@ -7,6 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jersey_restful_webservice Jersey Webapp</name>
 
+
 	<properties>
 		<jersey.version>2.6</jersey.version>
 		<genson.version>0.98</genson.version>
